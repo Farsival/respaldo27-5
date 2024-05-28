@@ -2,7 +2,7 @@
   <div>
     <Toolbar/>
     <Menu/>
-    <Drawer/>
+    
     <Router-view/>
     <Footer/>
   </div>
@@ -13,7 +13,7 @@ import { provide, ref } from "vue";
 import { useRouter } from "vue-router";
 import Toolbar from "@/components/Toolbar.vue";
 import Menu from "@/components/Menu.vue";
-import Drawer from "@/components/Drawer.vue";
+
 import Footer from "@/components/Footer.vue";
 
 const router = useRouter();

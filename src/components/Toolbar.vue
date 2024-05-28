@@ -12,7 +12,7 @@
       <v-app-bar-nav-icon color="white" @click="drawer = !drawer" ></v-app-bar-nav-icon>
         </v-col>
       <v-col cols="8" class="titulo">
-      <v-toolbar-title class="titulo2">Página ROOT - Instituto de Alta Especialización UwU</v-toolbar-title>
+      <v-toolbar-title class="titulo2">Página ROOT - Instituto de Alta Especialización </v-toolbar-title>
       </v-col>
       <v-col cols="2">
         <nav class="menu">
